@@ -1,4 +1,4 @@
-# E2-IA
+# E2_IA_G14
 
 Predicción de MRR para SaaS B2B (Evaluación 2 - Inteligencia Artificial)
 
